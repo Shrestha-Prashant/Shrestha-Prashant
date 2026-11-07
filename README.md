@@ -1,7 +1,7 @@
 <h2 align = "center"> Hi there, I'm Prashant Shrestha 👋 </h2>
 
 # 💫 About Me:
-🏠 I'm from Kathmandu, Nepal 🇳🇵.<br>💻 I'm currently studying Computer Science at Kathmandu University 🏫.<br>🌱 I'm molding myself as a Backend developer | Data Engineer.<br>🔬 I'm interested in Data Engineering.<br>🙌 I'm looking to collabrate and contribute to open source projects.<br>⚽ I love playing sports.
+🏠 I'm from Kathmandu, Nepal 🇳🇵.<br>💻 I studied Computer Science at Kathmandu University 🏫.<br>🌱 I'm working as a Data Engineer at Robling.<br>🙌 I'm looking to collabrate and contribute to open source projects.<br>⚽ I love playing sports.
 
 
 ## 🌐 Socials:
